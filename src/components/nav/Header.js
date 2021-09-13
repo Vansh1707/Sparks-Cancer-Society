@@ -17,7 +17,7 @@ const Header = ()=>{
         <Menu onClick={handleClick} selectedKeys={[current]} mode="horizontal" theme="dark">
           
         <Menu.Item key="home">
-          <Link to="/Sparks-Cancer-Society/"> <img height="35px" src="https://snipstock.com/assets/cdn/png/8abb4818a77321630f8b18c4e4e9959f.png"></img> Home</Link>
+          <Link to="/Sparks-Cancer-Society"> <img height="35px" src="https://snipstock.com/assets/cdn/png/8abb4818a77321630f8b18c4e4e9959f.png"></img> Home</Link>
         </Menu.Item>
         <Menu.Item key="about" >
           <a href="https://www.thesparksfoundationsingapore.org/" target="_blank"><img height="50px" src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"></img> The Spark Foundations</a>
