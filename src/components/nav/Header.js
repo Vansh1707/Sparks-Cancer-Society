@@ -10,7 +10,7 @@ const Header = ()=>{
     const [current,setCurrent]=useState("home");
 
     const handleClick=(e)=>{
-        setCurrent(e.key);
+//         setCurrent(e.key);
     }
 
     return(
