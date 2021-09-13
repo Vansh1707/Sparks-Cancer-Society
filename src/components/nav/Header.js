@@ -7,7 +7,7 @@ const { SubMenu } = Menu;
 
 const Header = ()=>{
 
-    const [current,setCurrent]=useState("Home");
+    const [current,setCurrent]=useState("home");
 
     const handleClick=(e)=>{
         setCurrent(e.key);
