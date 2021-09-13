@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sparks-Cancer-Society/static/css/main.afd7172b.chunk.css",
-    "main.js": "/Sparks-Cancer-Society/static/js/main.f3ba4e06.chunk.js",
-    "main.js.map": "/Sparks-Cancer-Society/static/js/main.f3ba4e06.chunk.js.map",
+    "main.js": "/Sparks-Cancer-Society/static/js/main.2c7bf331.chunk.js",
+    "main.js.map": "/Sparks-Cancer-Society/static/js/main.2c7bf331.chunk.js.map",
     "runtime-main.js": "/Sparks-Cancer-Society/static/js/runtime-main.b2649b4d.js",
     "runtime-main.js.map": "/Sparks-Cancer-Society/static/js/runtime-main.b2649b4d.js.map",
     "static/css/2.786ae0dd.chunk.css": "/Sparks-Cancer-Society/static/css/2.786ae0dd.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.ae581c16.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.f3ba4e06.chunk.js"
+    "static/js/main.2c7bf331.chunk.js"
   ]
 }
